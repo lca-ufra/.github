@@ -1,9 +1,9 @@
 <img alt="LCA — Laboratório de Computação Aplicada · UFRA/ICIBE" src="./lca-banner.svg" width="100%">
 
 <p align="center">
-  <img alt="UFRA · ICIBE" src="https://img.shields.io/badge/UFRA-ICIBE-1a8a4c?style=flat-square&labelColor=0b2a4a">
-  <img alt="Belém, PA" src="https://img.shields.io/badge/Bel%C3%A9m-PA-1a8a4c?style=flat-square&labelColor=0b2a4a">
-  <img alt="Contato: lca@ufra.edu.br" src="https://img.shields.io/badge/contato-lca%40ufra.edu.br-1a8a4c?style=flat-square&labelColor=0b2a4a">
+  <img alt="UFRA · ICIBE" src="https://img.shields.io/badge/UFRA-ICIBE-1C874C?style=flat-square&labelColor=0B2A55">
+  <img alt="Belém, PA" src="https://img.shields.io/badge/Bel%C3%A9m-PA-1C874C?style=flat-square&labelColor=0B2A55">
+  <img alt="Contato: lca@ufra.edu.br" src="https://img.shields.io/badge/contato-lca%40ufra.edu.br-1C874C?style=flat-square&labelColor=0B2A55">
 </p>
 
 <p align="center">
