@@ -34,7 +34,6 @@
 ## Coordenação
 
 - **Professores responsáveis:** Profa. Dra. Decíola Fernandes de Sousa · Prof. Dr. Orlando Shigueo Ohashi Junior
-- **Coordenação discente:** Marcos Gabriel Rodrigues Baia
 - **Contato:** lca@ufra.edu.br
 
 <br>
